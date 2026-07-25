@@ -32,8 +32,8 @@ I have 18+ years of experience across IT service delivery, business analysis, an
 ---
 
 ### 📬 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jijogeorge1)[cite: 1]
-- 📍 Sydney, Australia[cite: 1]
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jijogeorge1)
+- 📍 Sydney, Australia
 <!--
 **thejijogeorge/thejijogeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
